@@ -1,0 +1,651 @@
+{
+  "alerts": {
+    "calendarsUnauthorized": {
+      "message": "WeFit cần cấp quyền để thêm buổi tập vào lịch và nhắc nhở trước khi đi tập, vui lòng cho phép chúng tôi sử dụng chức năng này",
+      "navigateSettings": "Cài đặt",
+      "title": "Cấp quyền truy cập Lịch"
+    },
+    "latestVersion": {
+      "message": "WeFit trên máy bạn đang ở phiên bản mới nhất {0}, hãy yên tâm trải nghiệm và cùng chờ đón những tính năng mới nhất nhé ;)",
+      "title": "Không có bản cập nhật mới"
+    },
+    "newVersion": {
+      "message": "WeFit đã update lên phiên bản {0} với nhiều tính năng mới thú vị, hãy cập nhật ngay để trải nghiệm nhé ;)",
+      "navigateStore": "Đến {0}",
+      "title": "Phiên bản mới {0}"
+    }
+  },
+  "detailScrollView": {
+    "favorStudioAlerts": {
+      "off": "Đã loại bỏ khỏi danh sách phòng tập yêu thích",
+      "on": "Đã thêm vào danh sách phòng tập yêu thích",
+      "title": "Phòng tập yêu thích"
+    },
+    "header": {
+      "addToCalendar": {
+        "error": "Có lỗi xảy ra: {0}",
+        "success": "Thêm vào lịch thành công, vui lòng kiểm tra thông báo trước giờ tập",
+        "title": "Thêm buổi tập vào Lịch"
+      }
+    },
+    "mapBox": {
+      "callHotline": "GỌI PHÒNG TẬP",
+      "cancel": "Huỷ",
+      "direction": "CHỈ ĐƯỜNG",
+      "title": "Địa điểm",
+      "useAppleMaps": "Mở bằng Apple Maps",
+      "useGoogleMaps": "Mở bằng Google Maps"
+    },
+    "quickInfo": {
+      "currentSession": "Buổi",
+      "instructor": "Giáo viên\n{0}",
+      "levels": {
+        "advanced": "Nâng cao",
+        "basic": "Cơ bản",
+        "everyone": "Mọi trình độ",
+        "intermediate": "Trung cấp"
+      },
+      "tooltips": {
+        "amenities": "Phòng tập cung cấp tiện ích {0}",
+        "currentSession": "Đây là buổi tập thứ {0} của khoá"
+      }
+    },
+    "ratingInfo": {
+      "noRatings": "Chưa có đánh giá",
+      "plural": "{0} đánh giá",
+      "singular": "{0} đánh giá"
+    },
+    "reviewsDetail": {
+      "empty": {
+        "forSession": "Các đánh giá về buổi tập này không có bình luận 😞",
+        "forStudio": "Các đánh giá về phòng tập này không có bình luận 😞",
+        "title": "Chưa có đánh giá chi tiết"
+      },
+      "titles": {
+        "session": "Về lớp này",
+        "studio": "Phòng tập"
+      }
+    }
+  },
+  "favoriteStudios": {
+    "empty": {
+      "instruction": "Hãy bấm nút trái tim ở trên góc phải buổi tập để lưu phòng tập đó vào danh sách này bạn nhé!",
+      "title": "Danh sách yêu thích còn trống"
+    },
+    "title": "Phòng tập yêu thích"
+  },
+  "filters": {
+    "allSessions": "Toàn bộ các buổi tập",
+    "buttons": {
+      "apply": "LỌC KẾT QUẢ",
+      "clear": "XOÁ"
+    },
+    "customTime": "Chỉnh giờ chi tiết",
+    "sections": {
+      "amenities": "Tiện ích đi kèm",
+      "fitnessTypes": "Bộ môn tập",
+      "places": "Địa điểm",
+      "time": "Thời gian"
+    },
+    "title": "Tìm kiếm nâng cao"
+  },
+  "formats": {
+    "etaTexts": {
+      "hours": {
+        "plural": "{0} tiếng",
+        "singular": "{0} tiếng"
+      },
+      "minutes": {
+        "plural": "{0} phút",
+        "singular": "{0} phút"
+      }
+    },
+    "membershipDate": "DD/MM/YYYY",
+    "shortDate": "DD/MM",
+    "weekDay": {
+      "long": "dddd",
+      "short": "ddd"
+    }
+  },
+  "globalAlert": {
+    "auth": {
+      "changePassword": "Đổi mật khẩu",
+      "connectFacebook": "Dùng tài khoản Facebook",
+      "loginEmail": "Đăng nhập với email",
+      "loginSocial": "Đăng nhập với mạng xã hội",
+      "signUpEmail": "Đăng ký với email"
+    },
+    "checkNetwork": {
+      "message": "Điện thoại của bạn đang không kết nối mạng nên không thể dùng đầy đủ chức năng của WeFit.",
+      "title": "Cảnh báo"
+    },
+    "cancelReview": "Huỷ đánh giá",
+    "cancelSession": "Huỷ buổi tập",
+    "checkPromoCode": "Kiểm tra mã giảm giá",
+    "defaultMessage": "Có lỗi xảy ra, vui lòng thử lại sau!",
+    "favorStudio": "Cập nhật phòng tập ưa thích",
+    "forgotPassword": "Quên mật khẩu",
+    "linkReferralCode": "Nhập mã giới thiệu",
+    "mySessions": "Buổi tập của tôi",
+    "overallSchedules": "Xem lịch tập",
+    "redeemMembership": "Kích hoạt gói tập",
+    "requestPaymentOrder": "Tạo mới giao dịch thanh toán",
+    "reserveSession": "Đăng ký buổi tập",
+    "resetPassword": "Đặt lại mật khẩu",
+    "studioSchedules": "Xem lịch tập theo phòng",
+    "studiosMap": "Địa điểm phòng tập",
+    "submitReview": "Đánh giá buổi tập",
+    "updatePersonalInfo": "Thông tin cá nhân",
+    "updateUserSettings": "Cài đặt tài khoản",
+    "uploadAvatar": "Cập nhật hình đại diện",
+    "userLocation": "Địa điểm hiện tại"
+  },
+  "home": {
+    "cards": {
+      "newcomer": {
+        "processText": "ĐỒNG Ý",
+        "text": "Bạn đã nắm hết các tính năng của WeFit? Hãy để chúng tôi dẫn bạn đi tham quan một vòng nhé!"
+      },
+      "pendingOrder": {
+        "processText": "TIẾP TỤC",
+        "text": "Bạn có một gói tập đang thanh toán dở, hãy hoàn thành ngay để tiếp tục sử dụng WeFit!"
+      },
+      "session": {
+        "imThere": "TÔI ĐÃ ĐẾN NƠI",
+        "occurring": "Buổi tập đang diễn ra",
+        "review": "Hãy đánh giá buổi tập",
+        "reviewSuccess": "Đánh giá của bạn đã được gửi thành công và đang chờ được duyệt",
+        "upcoming": "Buổi tập sắp tới",
+        "viewDetail": "XEM CHI TIẾT"
+      },
+      "wefitTips": {
+        "activated": [
+          "Bạn cần đặt lịch trước khi đi tập và ít nhất 15 phút trước khi giờ tập bắt đầu.",
+          "Bạn được phép đặt trước tối đa 5 buổi tập và sẽ được đặt tiếp sau khi bạn đi tập.",
+          "Sau khi đặt buổi tập thành công, bạn có thể kiểm tra lại thông tin trong phần \"Lịch tập của tôi\".",
+          "Phòng tập có quyền từ chối tiếp nhận nếu bạn đến muộn giờ.",
+          "Bạn có thể hủy buổi tập đã đặt tối thiểu 60 phút trước giờ tập. Chi tiết xem trong phần \"Lịch tập của tôi\".",
+          "Một số phòng tập yêu cầu khách hàng phải đặt chỗ trước tối thiểu 30 phút hoặc 1 tiếng trước khi buổi tập bắt đầu. Bạn hãy lưu ý đọc kỹ phần thông tin trong chi tiết buổi tập.",
+          "Một số phòng tập yêu cầu khách hàng đối chiếu thông tin qua giấy tờ tùy thân để được vào tập. Bạn hãy lưu ý đọc kỹ phần thông tin trong chi tiết buổi tập.",
+          "Số buổi tập được quy định (nếu có) tại một số phòng tập sẽ được tính từ ngày đầu tiên đến ngày cuối cùng của tháng dương lịch.",
+          "Sử dụng thanh tìm kiếm nâng cao để lọc ra lịch tập tại khu vực, thời gian, và bộ môn phù hợp với bạn nhất.",
+          "Khách hàng mua gói 3 tháng được bảo lưu 1 lần 15 ngày, khách hàng mua gói 6 tháng được bảo lưu 2 lần với tổng thời gian là 30 ngày.",
+          "Khách hàng cần phải mang trang phục phù hợp với việc luyện tập, phòng tập có quyền từ chối tiếp nhận nếu khách hàng mang trang phục vi phạm với nội quy riêng hoặc gây phản cảm.",
+          "Lịch các lớp học như Yoga và Group X sẽ được cập nhật lên hệ thống của WeFit vào các cuối tuần."
+        ],
+        "expired": [
+          "Gói tập luyện với WeFit của bạn đã hết hạn. Bạn cần phải gia hạn gói tập để có thể tiếp tục đặt lịch và tham gia tập luyện với WeFit."
+        ],
+        "trial": [
+          "Bạn có thể xem trước hệ thống đối tác cũng như toàn bộ lịch tập mà WeFit cung cấp. Tuy nhiên bạn cần phải mua gói tập để có thể đặt lịch và tham gia tập luyện với WeFit."
+        ]
+      }
+    },
+    "greeting": "Xin chào",
+    "sessionReviewPopup": {
+      "buttons": {
+        "cancel": "HUỶ",
+        "submit": "GỬI"
+      },
+      "placeholder": "Bạn có muốn nhận xét chi tiết thêm về buổi tập không?",
+      "presets": [
+        "Tôi thấy buổi tập rất tệ",
+        "Tôi thấy buổi tập này không tốt",
+        "Tôi thấy phần nào hài lòng về buổi tập",
+        "Tôi thấy khá thích buổi tập này",
+        "Tôi thấy buổi tập này thật tuyệt vời"
+      ]
+    },
+    "swiper": {
+      "allArticle": "Toàn bộ bài viết",
+      "announcements": "Thông báo",
+      "author": "Tác giả",
+      "categoriesContent": "Các nhóm bài viết",
+      "favourited": "Đã Yêu Thích",
+      "recommendations": "Có thể bạn sẽ thích",
+      "seeAll": "Xem tất cả",
+      "seeMore": "Xem thêm",
+      "trainingTips": "Hướng dẫn tập luyện",
+      "emptyArticle": {
+        "description_1": "Chưa có bài viết phù hợp",
+        "description_2": "Bạn vui lòng quay lại và tìm kiếm theo những tiêu chí khác nhé",
+        "description_3": "WeFit sẽ sớm cập nhật thêm những bài viết mới cho chuyên mục này"
+      }
+    }
+  },
+  "membershipPacks": {
+    "hotline": "Hotline tư vấn",
+    "promotions": "Ưu đãi dành cho {0}",
+    "selectPack": "CHỌN GÓI TẬP",
+    "termsCheckbox": {
+      "acceptance": "Tôi đồng ý với",
+      "terms": "điều khoản của WeFit"
+    },
+    "title": "Các gói tập WeFit"
+  },
+  "mySessions": {
+    "empty": {
+      "subTitle": "Hãy tham khảo lịch tập phong phú của WeFit để chọn cho mình một buổi tập phù hợp nào!",
+      "title": "Bạn chưa có buổi tập nào sắp tới",
+      "titles": {
+        "past": "Bạn chưa có buổi tập nào với WeFit!",
+        "upcoming": "Bạn chưa có buổi tập nào sắp tới!"
+      },
+      "viewSchedules": "XEM LỊCH TẬP"
+    },
+    "haveQuestion": "Bạn có thắc mắc?",
+    "tabs": {
+      "past": "Đã diễn ra",
+      "upcoming": "Buổi tập sắp tới"
+    },
+    "title": "Lịch tập của tôi"
+  },
+  "paymentGateway": {
+    "alert": {
+      "membershipStatus": {
+        "noQuota": "Tài khoản WeFit của bạn có hạn dùng đến ngày {0}",
+        "quota": {
+          "plural": "Tài khoản WeFit của bạn có hạn dùng đến ngày {0} và còn {1} buổi tập",
+          "singular": "Tài khoản WeFit của bạn có hạn dùng đến ngày {0} và còn {1} buổi tập"
+        }
+      },
+      "success": "Thanh toán thành công",
+      "title": "Thanh toán gói tập"
+    },
+    "title": "Cổng thanh toán"
+  },
+  "personalInfo": {
+    "avatarPicker": {
+      "buttons": {
+        "chooseFromLibrary": "Chọn ảnh từ thư viện...",
+        "takePhoto": "Chụp ảnh..."
+      },
+      "permissionDenied": {
+        "okTitle": "Đồng ý",
+        "reTryTitle": "Thử lại",
+        "text": "WeFit cần cấp quyền chụp và lựa chọn ảnh từ thư viện để thay đổi hình đại diện của bạn, vui lòng cho phép chúng tôi sử dụng chức năng này",
+        "title": "Quyền truy cập bị chặn"
+      }
+    },
+    "birthdayPicker": {
+      "cancel": "Huỷ",
+      "confirm": "Chọn",
+      "title": "Chọn ngày sinh"
+    },
+    "fields": {
+      "buttonPlaceholder": "Lựa chọn",
+      "city": {
+        "studios": "phòng tập",
+        "title": "Thành phố"
+      },
+      "email": {
+        "placeholder": "Điền địa chỉ email của bạn",
+        "title": "Địa chỉ email"
+      },
+      "fullName": {
+        "placeholder": "Điền tên thật của bạn",
+        "title": "Họ và tên"
+      },
+      "genders": {
+        "female": "Nữ",
+        "male": "Nam",
+        "other": "Khác",
+        "title": "Giới tính"
+      },
+      "phone": {
+        "placeholder": "Số điện thoại",
+        "title": "Số điện thoại"
+      }
+    },
+    "newcomerAlert": {
+      "message": "Bạn vui lòng nhập họ và tên, với số điện thoại chính xác để có thể đi tập cùng WeFit nhé",
+      "title": "Chào mừng đến với WeFit"
+    },
+    "saveChanges": "LƯU THAY ĐỔI",
+    "success": "Cập nhật dữ liệu thành công!",
+    "title": "Thông tin cá nhân"
+  },
+  "profile": {
+    "membershipStatus": {
+      "hasExpired": "Gói tập của bạn đã hết hạn",
+      "noQuota": "Gói WeFit của bạn có hạn dùng đến ngày\n{0}",
+      "notActivated": "Tài khoản của bạn chưa kích hoạt",
+      "quota": {
+        "plural": "Gói WeFit của bạn có hạn dùng đến ngày\n{0} và còn {1} buổi tập",
+        "singular": "Gói WeFit của bạn có hạn dùng đến ngày\n{0} và còn {1} buổi tập"
+      }
+    },
+    "menuOptions": {
+      "favoriteStudios": "Phòng tập yêu thích",
+      "personalInfo": "Thông tin cá nhân",
+      "purchaseOnline": "Mua gói tập bằng thẻ",
+      "redeemMembership": "Nhập mã gói tập",
+      "referral": "Giới thiệu bạn bè"
+    }
+  },
+  "promoCodePopup": {
+    "apply": "ĐỒNG Ý",
+    "cancel": "HUỶ",
+    "checkSuccess": "Áp dụng {0} thành công",
+    "instructions": "Nếu bạn có mã khuyến mãi hoặc mã giới thiệu từ bạn bè, nhập thêm vào ô dưới đây",
+    "placeholder": "Nhập mã giảm giá"
+  },
+  "purchaseReceipt": {
+    "atmCards": "Dùng thẻ ATM nội địa",
+    "creditCards": "Dùng thẻ Visa / Mastercard",
+    "membershipPackCard": {
+      "defaultDiscountTitle": "Ưu đãi {0}",
+      "grandTotalTitle": "Tổng tiền",
+      "originalPriceTitle": "Giá gốc",
+      "promoDiscountTitle": "Mã giảm giá"
+    },
+    "title": "Thông tin thanh toán"
+  },
+  "quotes": [
+    "Đừng chỉ mong ước, hãy nỗ lực giành lấy.",
+    "Những lúc bạn muốn từ bỏ, hãy nhớ lại vì sao bạn bắt đầu.",
+    "Đừng coi sức khỏe chỉ là một mục tiêu, hãy coi nó là cách sống.",
+    "Bài luyện tập tệ nhất là bài chỉ diễn ra trong trí tưởng tượng của bạn.",
+    "Theo đuổi Fitness không phải là để tốt hơn người khác, mà là để tốt hơn chính mình.",
+    "Hãy nỗ lực vì một cơ thể khỏe mạnh, đó là mái nhà cả đời của bạn.",
+    "Luyện tập ngay hôm nay và trong tương lai bạn sẽ biết ơn vì điều đó.",
+    "Bạn chỉ có thể thất bại hoàn toàn nếu bạn chọn cách từ bỏ.",
+    "Cuộc sống như một buổi luyện tập. Nó càng khó, bạn càng trở nên mạnh mẽ.",
+    "Một năm nữa nhìn lại, bạn sẽ ước gì mình đã bắt đầu từ hôm nay.",
+    "Bạn sẽ thấy tập luyện là phần thưởng cho cơ thể, không phải hình phạt.",
+    "Dù bạn nghĩ rằng mình có thể làm được hay không, bạn cũng đúng.",
+    "Tiến bộ chậm chạp, còn hơn dậm chân tại chỗ."
+  ],
+  "redeemMembership": {
+    "activationCodeInput": {
+      "instruction": "Tìm hiểu thêm về gói tập của WeFit?",
+      "placeholder": "Mã gói tập",
+      "submit": "KÍCH HOẠT GÓI TẬP"
+    },
+    "buttons": {
+      "confirm": "KÍCH HOẠT GÓI TẬP",
+      "finish": "XEM LỊCH TẬP TRÊN WEFIT"
+    },
+    "finish": {
+      "message": "Giờ bạn có thể bắt đầu chọn và đặt buổi tập ngay với WeFit được rồi!",
+      "title": "Kích hoạt gói tập thành công"
+    },
+    "membershipStatus": {
+      "hasExpired": "Gói tập của bạn đã hết hạn",
+      "noQuota": "Tài khoản WeFit của bạn có hạn dùng đến ngày\n{0}",
+      "notActivated": "Tài khoản của bạn chưa kích hoạt",
+      "quota": {
+        "plural": "Tài khoản WeFit của bạn có hạn dùng đến ngày\n{0} và còn {1} buổi tập",
+        "singular": "Tài khoản WeFit của bạn có hạn dùng đến ngày\n{0} và còn {1} buổi tập"
+      }
+    },
+    "redeemCodeInput": {
+      "instruction": "Mã thẻ cào gồm 6 kí tự của WeFit, bạn sẽ nhận được khi bạn mua gói tập của WeFit qua hotline",
+      "placeholder": "Nhập mã",
+      "title": "Bạn vui lòng điền mã gói tập"
+    },
+    "title": "Nhập mã gói tập"
+  },
+  "referral": {
+    "clipboard": {
+      "content": "Mã giới thiệu WeFit: {0}",
+      "message": "Đã sao chép mã giới thiệu!"
+    },
+    "creditBox": {
+      "creditStore": "Cửa hàng Credit",
+      "friends": {
+        "none": "Hãy giới thiệu bạn bè mua gói tập WeFit để nhận được Credit nhé!",
+        "plural": "Bạn đã giới thiệu được cho {0} người mua gói tập WeFit thành công!",
+        "singular": "Bạn đã giới thiệu được cho {0} người mua gói tập WeFit thành công!"
+      },
+      "points": {
+        "plural": "{0} Credit",
+        "singular": "{0} Credit",
+        "status": "Bạn đang có: {0}"
+      }
+    },
+    "enterReferralCode": "NHẬP MÃ GIỚI THIỆU",
+    "instructions": {
+      "forCustomers": "Mỗi tài khoản sử dụng mã kích hoạt này sẽ được giảm 100k khi mua gói tập đầu tiên. Anh/chị cũng sẽ được cộng thêm 100 Credit dùng để trừ vào lần thanh toán kế tiếp.",
+      "forNonCustomers": "Bạn cần phải trở thành khách hàng của WeFit để có thể bắt đầu."
+    },
+    "referralCodePopup": {
+      "apply": "ĐỒNG Ý",
+      "cancel": "HUỶ",
+      "message": "Bạn đang sử dụng mã giới thiệu của {0}",
+      "placeholder": "Nhập mã giới thiệu",
+      "title": "Áp dụng mã giới thiệu thành công"
+    },
+    "referredBy": "Bạn đã nhập mã giới thiệu của {0}",
+    "title": "Giới thiệu bạn bè"
+  },
+  "reusables": {
+    "hotlineButton": "Gọi Hotline",
+    "userLocationError": "Không thể lấy dữ liệu địa điểm"
+  },
+  "searchStudios": {
+    "noResult": "Không có kết quả tìm kiếm!",
+    "noResultFor": "Không có kết quả cho {0}!",
+    "placeholder": "Tìm kiếm phòng tập"
+  },
+  "sessionBooking": {
+    "buttons": {
+      "cancel": "TÔI MUỐN HỦY BUỔI TẬP",
+      "reserve": "XÁC NHẬN ĐĂNG KÝ",
+      "viewMySessions": "XEM LỊCH TẬP CỦA TÔI"
+    },
+    "confirmCancel": "Bạn có chắc chắn muốn hủy buổi tập này không?\nCòn {0} nữa là đến giờ tập.",
+    "finishMessage": {
+      "cancel": {
+        "contents": {
+          "noCode": "Lần sau hãy sắp xếp thời gian phù hợp để có thể chắc chắn đi tập được bạn nhé!"
+        },
+        "title": "Hủy buổi tập thành công"
+      },
+      "clipboard": {
+        "content": "Mã đặt chỗ WeFit: {0}",
+        "message": "Đã sao chép mã đặt chỗ!",
+        "title": "Đặt lịch tập"
+      },
+      "reserve": {
+        "contents": {
+          "hasCode": "Bạn vui lòng cung cấp mã đặt chỗ dưới đây cho lễ tân để làm thủ tục check-in tại phòng tập. Đây là điều kiện bắt buộc để được tham gia tập luyện. Mã này chỉ có hiệu lực từ 30 phút trước khi lịch tập bắt đầu đến khi lịch tập kết thúc.",
+          "noCode": "Bạn nhớ đến phòng tập đúng giờ và thông báo mình đến từ WeFit để được vào tập nhé!"
+        },
+        "title": "Đăng ký buổi tập thành công"
+      }
+    },
+    "sessionDuration": "Kéo dài {0} phút",
+    "warning": "Lưu ý, bạn không thể hủy buổi tập đã đặt trong vòng 60 phút trước giờ tập"
+  },
+  "sessionDetail": {
+    "buttons": {
+      "alreadyReserved": "ĐÃ ĐĂNG KÝ",
+      "cancel": "HUỶ",
+      "reserve": "ĐĂNG KÝ TẬP"
+    },
+    "duration": "Dài {0} phút",
+    "reservationCode": {
+      "title": "Mã đặt chỗ:",
+      "tooltips": "Sử dụng mã đặt chỗ này tại quầy lễ tân để được xác nhận tham gia buổi tập"
+    },
+    "sections": {
+      "description": "Nội dung",
+      "policies": "Cần có mặt trước bao lâu?",
+      "requirements": "Cần chuẩn bị gì?"
+    }
+  },
+  "sessionsListing": {
+    "dataRow": {
+      "currentSession": "Buổi thứ {0} của khoá",
+      "duration": "{0} phút",
+      "instructor": "Giáo viên: {0}",
+      "reserved": "Đã đăng ký"
+    },
+    "empty": {
+      "hasFilters": {
+        "subTitle": "Bạn vui lòng quay lại và lọc theo những tiêu chí khác nhé!",
+        "title": "Không có kết quả"
+      },
+      "noFilters": {
+        "subTitle": "Bạn vui lòng chọn sang ngày hôm sau để xem và đặt buổi tập nhé!",
+        "title": "Hôm nay đã hết buổi tập rồi"
+      }
+    }
+  },
+  "setGoals": {
+    "buttons": {
+      "clear": "XOÁ",
+      "submit": "ĐỒNG Ý"
+    },
+    "durations": {
+      "day": "day",
+      "month": "month",
+      "week": "week"
+    },
+    "header": {
+      "finished": "Chúc mừng, bạn đã hoàn thành mục tiêu {0} này!",
+      "finishedToday": "Chúc mừng, bạn đã hoàn thành mục tiêu hôm nay!",
+      "noGoals": "Bạn chưa đặt mục tiêu tập luyện cho bản thân!",
+      "remain": "Bạn còn {0} buổi tập nữa để đạt mục tiêu {1} này!",
+      "remainToday": "Bạn còn {0} buổi tập nữa để đạt mục tiêu hôm nay",
+      "setButton": "Đặt mục tiêu"
+    },
+    "planNames": {
+      "advanced": "Tăng tốc tối đa",
+      "basic": "Mới nhập môn",
+      "custom": "Tự chọn số buổi",
+      "standard": "Rèn luyện tiêu chuẩn"
+    },
+    "sections": {
+      "detail": "Chi tiết",
+      "plans": "Chọn kế hoạch tập luyện"
+    },
+    "title": "Đặt mục tiêu"
+  },
+  "settings": {
+    "appInfo": {
+      "checkForUpdate": "KIỂM TRA PHIÊN BẢN MỚI",
+      "clearCache": "XOÁ BỘ NHỚ CACHE",
+      "logout": "ĐĂNG XUẤT",
+      "updating": "Đang cập nhật... ({0})",
+      "version": "Phiên bản hiện tại: {0}"
+    },
+    "hideUnavailableSessions": "Ẩn các buổi tập không đăng ký được",
+    "logout": {
+      "cancel": "Tôi muốn ở lại",
+      "confirm": "Đăng xuất",
+      "message": "Hãy ở lại với WeFit, nhiều điều thú vị đang chờ đón mà!",
+      "thanksForStay": "Cảm ơn bạn nhiều ^_^",
+      "title": "Bạn thực sự muốn đăng xuất?"
+    },
+    "notifyBefore": "Trước giờ tập {0} phút",
+    "saveChanges": "LƯU THAY ĐỔI",
+    "sections": {
+      "application": "Ứng dụng",
+      "language": "Ngôn ngữ",
+      "notifications": "Thông báo",
+      "schedules": "Danh sách lịch tập"
+    },
+    "title": "Cài đặt tài khoản"
+  },
+  "studioDetail": {
+    "buttons": {
+      "viewSchedules": "XEM LỊCH TẬP"
+    },
+    "sameBrandStudios": "Phòng tập cùng hệ thống",
+    "sections": {
+      "description": "Giới thiệu"
+    }
+  },
+  "studioSchedules": {
+    "empty": {
+      "subTitle": "Bạn vui lòng chọn sang ngày hôm sau hoặc phòng tập khác để xem và đặt lịch tập nhé!",
+      "title": "Lịch tập rỗng"
+    }
+  },
+  "validations": {
+    "emptyCity": "Thành phố không thể để trống!",
+    "emptyCode": "Mã xác nhận không thể để trống!",
+    "emptyEmail": "Địa chỉ email không thể để trống!",
+    "emptyName": "Họ và tên không thể để trống!",
+    "emptyNewPassword": "Mật khẩu mới không thể để trống!",
+    "emptyPassword": "Mật khẩu không thể để trống!",
+    "emptyPhone": "Số điện thoại không thể để trống!",
+    "invalidEmail": "Địa chỉ email không hợp lệ!",
+    "invalidPhone": "Số điện thoại không hợp lệ!",
+    "newPasswordTooShort": "Mật khẩu mới nên có độ dài tối thiểu 8 ký tự!",
+    "passwordTooShort": "Mật khẩu nên có độ dài tối thiểu 8 ký tự!",
+    "reusedPassword": "Mật khẩu mới không được trùng với mật khẩu cũ!"
+  },
+  "welcome": {
+    "buttons": {
+      "email": "ĐĂNG NHẬP BẰNG EMAIL",
+      "facebook": "DÙNG TÀI KHOẢN FACEBOOK"
+    },
+    "emailAuth": {
+      "buttons": {
+        "changePassword": "THAY ĐỔI MẬT KHẨU",
+        "createAccount": "TẠO TÀI KHOẢN",
+        "forgotPassword": "Quên mật khẩu",
+        "login": "ĐĂNG NHẬP",
+        "register": "Đăng ký mới",
+        "submit": "ĐỒNG Ý"
+      },
+      "instructions": {
+        "changePassword": "Nhập mật khẩu cũ và mật khẩu mới của bạn vào ô dưới đây",
+        "checkEmail": "Đã gửi yêu cầu đặt lại mật khẩu, vui lòng kiểm tra email {0} và làm theo hướng dẫn",
+        "facebookHint": "Hoặc đơn giản hơn!",
+        "forgotPassword": "Chúng tôi sẽ gửi mã xác nhận thay đổi mật khẩu vào email của bạn.",
+        "notRegistered": "Chưa có tài khoản?",
+        "resetPassword": "Nhập mật khẩu mới của bạn bạn vào ô dưới đây",
+        "resetPasswordSuccess": "Đặt lại mật khẩu thành công, bạn vui lòng đăng nhập lại nhé"
+      },
+      "placeholders": {
+        "email": "Địa chỉ email",
+        "mixed": "Địa chỉ email hoặc số điện thoại",
+        "newPassword": "Mật khẩu mới",
+        "password": "Mật khẩu",
+        "verificationCode": "Mã xác nhận"
+      },
+      "titles": {
+        "changePassword": "Đổi mật khẩu",
+        "forgotPassword": "Quên mật khẩu",
+        "login": "Đăng nhập",
+        "resetPassword": "Đặt lại mật khẩu",
+        "signUp": "Đăng ký",
+        "verificationCode": "Xác nhận"
+      }
+    },
+    "intro": {
+      "buttons": {
+        "activateMembership": "NHẬP MÃ GÓI TẬP",
+        "next": "TIẾP TỤC",
+        "startTrial": "BẮT ĐẦU SỬ DỤNG"
+      },
+      "texts": [
+        "Tìm lịch tập dễ dàng với mọi khung giờ và địa điểm",
+        "Xem thông tin phòng tập và đặt lịch đi tập chỉ với 2 bước",
+        "Check-in dễ dàng, nhanh chóng"
+      ]
+    },
+    "sellingPoints": [
+      "Dễ dàng tập luyện\ntại phòng tập gần nhất",
+      "BẤT KỲ LÚC NÀO!"
+    ],
+    "tutorials": [
+      {
+        "big": "TẬP Ở 500 PHÒNG TẬP",
+        "small": "MỘT ỨNG DỤNG"
+      },
+      {
+        "big": "TẬP HƠN 30 BỘ MÔN",
+        "small": "MỘT ỨNG DỤNG"
+      },
+      {
+        "big": "5000 LỊCH TẬP MỖI NGÀY",
+        "small": "MỘT ỨNG DỤNG"
+      }
+    ]
+  }
+}

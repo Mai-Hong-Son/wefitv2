@@ -1,0 +1,23 @@
+{
+  "debug": {
+    "apiKey": "AIzaSyA17ICV3rplCgkwzfB_Qk8yESpWfHuU8OE",
+    "authDomain": "wefit-df56b.firebaseapp.com",
+    "databaseURL": "https://wefit-df56b.firebaseio.com",
+    "serverKey": "AAAA8iSDT8c:APA91bHm-dSmsjWsOqmV_VsGKuchzbQ3uBfBEtyIBQsDj8Xk_W9aI66zGFq2JtAehCtj8xXUBN2b1wyG27TeD-glrjIi03SLl6vGVyTB6J7b2RupLe137nY9q7cKGGDC69ET0SOaWFu7_ehtitUlamESaEJ2DBh3eQ",
+    "storageBucket": "wefit-df56b.appspot.com"
+  },
+  "staging": {
+    "apiKey": "AIzaSyA17ICV3rplCgkwzfB_Qk8yESpWfHuU8OE",
+    "authDomain": "wefit-e5f99.firebaseapp.com",
+    "databaseURL": "https://wefit-e5f99.firebaseio.com",
+    "serverKey": "AAAA8iSDT8c:APA91bHm-dSmsjWsOqmV_VsGKuchzbQ3uBfBEtyIBQsDj8Xk_W9aI66zGFq2JtAehCtj8xXUBN2b1wyG27TeD-glrjIi03SLl6vGVyTB6J7b2RupLe137nY9q7cKGGDC69ET0SOaWFu7_ehtitUlamESaEJ2DBh3eQ",
+    "storageBucket": "wefit-e5f99.appspot.com"
+  },
+  "release": {
+    "apiKey": "AIzaSyA17ICV3rplCgkwzfB_Qk8yESpWfHuU8OE",
+    "authDomain": "wefit-e5f99.firebaseapp.com",
+    "databaseURL": "https://wefit-e5f99.firebaseio.com",
+    "serverKey": "AAAA8iSDT8c:APA91bHm-dSmsjWsOqmV_VsGKuchzbQ3uBfBEtyIBQsDj8Xk_W9aI66zGFq2JtAehCtj8xXUBN2b1wyG27TeD-glrjIi03SLl6vGVyTB6J7b2RupLe137nY9q7cKGGDC69ET0SOaWFu7_ehtitUlamESaEJ2DBh3eQ",
+    "storageBucket": "wefit-e5f99.appspot.com"
+  }
+}

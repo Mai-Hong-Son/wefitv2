@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wefit.app",
+      "sha256_cert_fingerprints": [
+        "F0:AA:1A:DD:7F:FA:D1:1A:8A:FD:FF:62:AA:A2:CC:1A:61:F3:8C:F3:B6:EE:8D:95:6F:CD:4D:4C:0F:58:99:D6"
+      ]
+    }
+  }
+]

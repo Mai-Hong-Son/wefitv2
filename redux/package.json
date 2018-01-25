@@ -1,0 +1,23 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "Shared Redux logic codebase to reuse between WeFit mobile (written in React Native) and WeFit web (written in ReactJS)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-react-native": "^2.3.2"
+  },
+  "scripts": {
+    "lint": "eslint actions reducers store *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ssh.git.onaclover.com:we-fit/wefit-shared-redux.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

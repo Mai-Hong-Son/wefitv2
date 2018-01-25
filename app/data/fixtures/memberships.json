@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "price": "1000000.0",
+    "quota": 0,
+    "days": 31,
+    "ignore_quota": true,
+    "city_code": "HN",
+    "city_id": 1,
+    "original_price": "1000000.0",
+    "in_promotion": false,
+    "name": "Gói tập 1 tháng không giới hạn",
+    "subtitle": "",
+    "description": "Gói tập 1 tháng",
+    "applying_promo_code": false
+  },
+  {
+    "id": 12,
+    "price": "3000000.0",
+    "quota": 0,
+    "days": 124,
+    "ignore_quota": true,
+    "city_code": "HN",
+    "city_id": 1,
+    "original_price": "3000000.0",
+    "in_promotion": true,
+    "name": "Gói 3 tháng không giới hạn",
+    "subtitle": "",
+    "description": "Gói 3 tháng tặng 1 tháng",
+    "applying_promo_code": false
+  },
+  {
+    "id": 13,
+    "price": "6000000.0",
+    "quota": 0,
+    "days": 248,
+    "ignore_quota": true,
+    "city_code": "HN",
+    "city_id": 1,
+    "original_price": "3000000.0",
+    "in_promotion": false,
+    "name": "Gói 6 tháng không giới hạn",
+    "subtitle": "",
+    "description": "Gói 6 tháng tặng 2 tháng",
+    "applying_promo_code": false
+  }
+]

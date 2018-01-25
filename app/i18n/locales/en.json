@@ -1,0 +1,650 @@
+{
+  "alerts": {
+    "calendarsUnauthorized": {
+      "message": "WeFit would like to send you notifications and add reserved bookings into your Calendar App. Please allow us to give you the best service. This can be changed in Settings.",
+      "navigateSettings": "Settings",
+      "title": "Allow \"WeFit\" to access Calendar"
+    },
+    "latestVersion": {
+      "message": "Version {0}. You are currently using the lastest version of this app. We'll notify you when there are new updates ;)",
+      "title": "There is no new version of this app."
+    },
+    "newVersion": {
+      "message": "The new version {0} is out with lots of cool features! Update WeFit so we can provide you with the best services :)",
+      "navigateStore": "Open {0}",
+      "title": "Version {0}"
+    }
+  },
+  "detailScrollView": {
+    "favorStudioAlerts": {
+      "off": "Removed from favourites",
+      "on": "Added to favorites",
+      "title": "Favorite studio"
+    },
+    "header": {
+      "addToCalendar": {
+        "error": "A problem has occurred: {0}",
+        "success": "Session has been added to Calendar. We will send you a notification before the session takes place.",
+        "title": "Add to Calendar"
+      }
+    },
+    "mapBox": {
+      "callHotline": "CONTACT STUDIO",
+      "cancel": "Cancel",
+      "direction": "DIRECTIONS",
+      "title": "Location",
+      "useAppleMaps": "Open with Apple Maps",
+      "useGoogleMaps": "Open with Google Maps"
+    },
+    "quickInfo": {
+      "currentSession": "Session",
+      "instructor": "Instructor\n{0}",
+      "levels": {
+        "advanced": "Nâng cao",
+        "basic": "Cơ bản",
+        "everyone": "Mọi trình độ",
+        "intermediate": "Trung cấp"
+      },
+      "tooltips": {
+        "amenities": "Studio has {0}",
+        "currentSession": "Session {0} of the course"
+      }
+    },
+    "ratingInfo": {
+      "noRatings": "No ratings",
+      "plural": "{0} ratings",
+      "singular": "{0} rating"
+    },
+    "reviewsDetail": {
+      "empty": {
+        "forSession": "There is no comment on this session 😞",
+        "forStudio": "There is no comment on this fitness center 😞",
+        "title": "No comment yet"
+      },
+      "titles": {
+        "session": "About class",
+        "studio": "About studio"
+      }
+    }
+  },
+  "favoriteStudios": {
+    "empty": {
+      "instruction": "To add studio into this list, please give them a heart at the top right corner of the screen!",
+      "title": "Favorite studios list is empty"
+    },
+    "title": "Favorite studios"
+  },
+  "filters": {
+    "allSessions": "All sessions",
+    "buttons": {
+      "apply": "APPLY",
+      "clear": "CLEAR"
+    },
+    "customTime": "Time setting",
+    "sections": {
+      "amenities": "Amenities",
+      "fitnessTypes": "Category",
+      "places": "Location",
+      "time": "Time"
+    },
+    "title": "Filters"
+  },
+  "formats": {
+    "etaTexts": {
+      "hours": {
+        "plural": "{0} hours",
+        "singular": "{0} hour"
+      },
+      "minutes": {
+        "plural": "{0} minutes",
+        "singular": "{0} minute"
+      }
+    },
+    "membershipDate": "MM/DD/YYYY",
+    "shortDate": "MM/DD",
+    "weekDay": {
+      "long": "ddd",
+      "short": "ddd"
+    }
+  },
+  "globalAlert": {
+    "auth": {
+      "changePassword": "Change password",
+      "connectFacebook": "Log in with Facebook",
+      "loginEmail": "Log in with email",
+      "loginSocial": "Log in with other social media accounts",
+      "signUpEmail": "Sign up with email"
+    },
+    "checkNetwork": {
+      "message": "You are in offline mode. Please connect to the internet to use all of WeFit's features.",
+      "title": "Warning"
+    },
+    "cancelReview": "Cancel review",
+    "cancelSession": "Cancel session",
+    "checkPromoCode": "Check discount code",
+    "defaultMessage": "Something went wrong, please try again later!",
+    "favorStudio": "Update favorite studios",
+    "forgotPassword": "Forgot password",
+    "linkReferralCode": "Enter your activation code",
+    "mySessions": "My schedule",
+    "overallSchedules": "Browse all schedules",
+    "redeemMembership": "Activate membership",
+    "requestPaymentOrder": "Request payment order",
+    "reserveSession": "Reserve",
+    "resetPassword": "Reset password",
+    "studioSchedules": "Studio schedule",
+    "studiosMap": "Location",
+    "submitReview": "Submit session review",
+    "updatePersonalInfo": "Personal information",
+    "updateUserSettings": "Account settings",
+    "uploadAvatar": "Upload profile picture",
+    "userLocation": "Your location"
+  },
+  "home": {
+    "cards": {
+      "newcomer": {
+        "processText": "LET'S GO",
+        "text": "Are you familiar with all features on the WeFit app? Let us take you on a virtual tour!"
+      },
+      "pendingOrder": {
+        "processText": "CONTINUE",
+        "text": "You haven't completed your payment process. Let's continue to the end and start using the app now!"
+      },
+      "session": {
+        "imThere": "I HAVE ARRIVED",
+        "occurring": "Ongoing session",
+        "review": "Give us some feedback",
+        "reviewSuccess": "Your review has been sent and is waiting to be approved",
+        "upcoming": "Next session",
+        "viewDetail": "VIEW DETAILS"
+      },
+      "wefitTips": {
+        "activated": [
+          "You need to make a reservation at least 15 minutes before a session starts.",
+          "You can make up to 5 reservations after a completed reservation.",
+          "After making a reservation, you can check session's information in \"My schedule\".",
+          "The studio has the right to deny access should you arrive late.",
+          "The lattest you can cancel a session is 60 minutes before the session starts. Go to \"My schedule\" for more details.",
+          "Reservations at some studios need to be made thirty minutes to one hour before a session starts. You should be able to find this information at session's details.",
+          "Personal ID is required to check-in at some studios. You should be able to find this information at session's details.",
+          "The number of sessions you can book at a studio (if limited) will be counted from the first to the last day of a calendar month.",
+          "Use advanced filter to select the studios that suits your preferences in location, time, and fitness type.",
+          "You can choose to hold off your account one time for 15 days for 3-month package and twice for 6-month package.",
+          "Please wear appropriate clothing to participate fitness sessions. The studio has the right to deny access if you violate the studio's dresscode, which can be of disturbance to other customers.",
+          "Yoga and Group X schedules will be updated on the app every weekend."
+        ],
+        "expired": [
+          "Your WeFit membership has expired. Please extend the membership to continue your training journey with WeFit."
+        ],
+        "trial": [
+          "You will still be able to see all of the partners and classes we offer, but you will need to purchase a WeFit membership to join these classes."
+        ]
+      }
+    },
+    "greeting": "Hello",
+    "sessionReviewPopup": {
+      "buttons": {
+        "cancel": "CANCEL",
+        "submit": "SUBMIT"
+      },
+      "placeholder": "Do you have any comment on this session?",
+      "presets": [
+        "I'm disappointed",
+        "I'm not satisfied",
+        "I'm somewhat satisfied",
+        "I'm satisfied",
+        "I loved it"
+      ]
+    },
+    "swiper": {
+      "allArticle": "All article",
+      "announcements": "Announcement",
+      "author": "Author",
+      "categoriesContent": "Categories content",
+      "favourited": "Favourited",
+      "recommendations": "Recommended for you",
+      "seeAll": "See all",
+      "seeMore": "See More",
+      "trainingTips": "Training tips",
+      "emptyArticle": {
+        "description_1": "There is no suitable article",
+        "description_2": "Please go back and filter by other criteria",
+        "description_3": "WeFit will soon update new articles for this category"
+      }
+    }
+  },
+  "membershipPacks": {
+    "hotline": "Hotline",
+    "promotions": "Discount of {0}",
+    "selectPack": "SELECT PACK",
+    "termsCheckbox": {
+      "acceptance": "I accept",
+      "terms": "WeFit's terms of use"
+    },
+    "title": "Membership packages"
+  },
+  "mySessions": {
+    "empty": {
+      "subTitle": "Browse through WeFit's various classes and gyms to create your individual fitness schedule!",
+      "title": "You have no upcoming schedule",
+      "titles": {
+        "past": "You don't have past schedule with WeFit!",
+        "upcoming": "You have no upcoming schedule!"
+      },
+      "viewSchedules": "BROWSE SCHEDULES"
+    },
+    "haveQuestion": "Questions for us?",
+    "tabs": {
+      "past": "Past",
+      "upcoming": "Upcoming"
+    },
+    "title": "My schedule"
+  },
+  "paymentGateway": {
+    "alert": {
+      "membershipStatus": {
+        "noQuota": "Your membership is validated through {0}",
+        "quota": {
+          "plural": "There is {1} days left of your membership before it expires on {0}",
+          "singular": "There is {1} day left of your membership before it expires on {0}"
+        }
+      },
+      "success": "Payment delivered",
+      "title": "Purchase"
+    },
+    "title": "Payment gateway"
+  },
+  "personalInfo": {
+    "avatarPicker": {
+      "buttons": {
+        "chooseFromLibrary": "Choose from camera roll...",
+        "takePhoto": "Take photo..."
+      },
+      "permissionDenied": {
+        "okTitle": "Agree",
+        "reTryTitle": "Retry",
+        "text": "Title: \"WeFit\" would like to access your Camera Roll\nContent: WeFit will only upload and share photos that you choose.",
+        "title": "Permission denied"
+      }
+    },
+    "birthdayPicker": {
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "title": "Date of birth"
+    },
+    "fields": {
+      "buttonPlaceholder": "Select",
+      "city": {
+        "studios": "studios",
+        "title": "City"
+      },
+      "email": {
+        "placeholder": "Enter your email address",
+        "title": "Email address"
+      },
+      "fullName": {
+        "placeholder": "Enter your full name",
+        "title": "Full name"
+      },
+      "genders": {
+        "female": "Female",
+        "male": "Male",
+        "other": "Other",
+        "title": "Gender"
+      },
+      "phone": {
+        "placeholder": "Mobile number",
+        "title": "Phone number"
+      }
+    },
+    "newcomerAlert": {
+      "message": "Please insert your full name and mobile number to activate your account",
+      "title": "Welcome to WeFit"
+    },
+    "saveChanges": "SAVE CHANGES",
+    "success": "Data updated successfully!",
+    "title": "Personal information"
+  },
+  "profile": {
+    "membershipStatus": {
+      "hasExpired": "Membership expired",
+      "noQuota": "Your membership is validated through\n{0}",
+      "notActivated": "Your membership hasn't been activated",
+      "quota": {
+        "plural": "There is {1} days left of your membership\nbefore it expires on {0}",
+        "singular": "There is {1} day left of your membership\nbefore it expires on {0}"
+      }
+    },
+    "menuOptions": {
+      "favoriteStudios": "Favorite studios",
+      "personalInfo": "Personal information",
+      "purchaseOnline": "Purchase online",
+      "redeemMembership": "Enter activation code",
+      "referral": "Refer a friend"
+    }
+  },
+  "promoCodePopup": {
+    "apply": "APPLY",
+    "cancel": "CANCEL",
+    "checkSuccess": "Applying {0} successfully",
+    "instructions": "Enter a discount/referral code (if any) below",
+    "placeholder": "Enter discount code"
+  },
+  "purchaseReceipt": {
+    "atmCards": "Use domestic credit card",
+    "creditCards": "Use Visa/Mastercard",
+    "membershipPackCard": {
+      "defaultDiscountTitle": "Discount of {0}",
+      "grandTotalTitle": "Grand total",
+      "originalPriceTitle": "Original price",
+      "promoDiscountTitle": "Discount code"
+    },
+    "title": "Purchase details"
+  },
+  "quotes": [
+    "Don't wish for it. Work for it!",
+    "When you feel like quitting, think about why you started.",
+    "Fit is not a destination. It is a lifestyle.",
+    "The only bad workout is the one that didn't happen.",
+    "Fitness is not about being better than someone else. It's about being better than who you used to be.",
+    "Take care of your body. It's the only place you have to live.",
+    "Do something today that your future self will thank you for.",
+    "You can only fail if you quit.",
+    "Life is like exercise. The harder it is, the stronger you become.",
+    "A year from now, you are going to wish you had started today.",
+    "Working out is a reward, not a punishment.",
+    "Whether you think you can or you can't, you're right.",
+    "Slow progress is better than no progress."
+  ],
+  "redeemMembership": {
+    "activationCodeInput": {
+      "instruction": "Would you like more details on WeFit membership packages?",
+      "placeholder": "Activation code",
+      "submit": "ACTIVATE MEMBERSHIP"
+    },
+    "buttons": {
+      "confirm": "ACTIVATE MEMBERSHIP",
+      "finish": "BROWSE SCHEDULES"
+    },
+    "finish": {
+      "message": "Start your WeFit membership now!",
+      "title": "Membership activated successfully"
+    },
+    "membershipStatus": {
+      "hasExpired": "Your membership has expired",
+      "noQuota": "Your membership is validated through\n{0}",
+      "notActivated": "Your membership hasn't been activated",
+      "quota": {
+        "plural": "There is {1} day left of your membership\nbefore it expires on {0}",
+        "singular": "There is {1} day left of your membership\nbefore it expires on {0}"
+      }
+    },
+    "redeemCodeInput": {
+      "instruction": "A 6-digit activation code will be sent to you after your purchase",
+      "placeholder": "Enter code",
+      "title": "Enter activation code"
+    },
+    "title": "Enter activation code"
+  },
+  "referral": {
+    "clipboard": {
+      "content": "WeFit referral code: {0}",
+      "message": "Referral code copied!"
+    },
+    "creditBox": {
+      "creditStore": "Credit store",
+      "friends": {
+        "none": "Refer a friend to earn credits!",
+        "plural": "You have refered WeFit to {0} friend!",
+        "singular": "You have refered WeFit to {0} friend!"
+      },
+      "points": {
+        "plural": "{0} Credits",
+        "singular": "{0} Credit",
+        "status": "You have: {0}"
+      }
+    },
+    "enterReferralCode": "ENTER YOUR ACTIVATION CODE",
+    "instructions": {
+      "forCustomers": "This code gives you a 100,000 VND discount on your first purchase. You will also have 100 Credits that is applicable for discount on your next purchase or to earn rewards.",
+      "forNonCustomers": "You need to become a WeFit member to get started."
+    },
+    "referralCodePopup": {
+      "apply": "APPLY",
+      "cancel": "CANCEL",
+      "message": "You are using the referral code of {0}",
+      "placeholder": "Enter your activation code",
+      "title": "Referral code successfully applied"
+    },
+    "referredBy": "You used the referral code of {0}",
+    "title": "Refer"
+  },
+  "reusables": {
+    "hotlineButton": "Call Hotline",
+    "userLocationError": "We can't find your location"
+  },
+  "searchStudios": {
+    "noResult": "No results",
+    "noResultFor": "No results for {0}!",
+    "placeholder": "Search studios"
+  },
+  "sessionBooking": {
+    "buttons": {
+      "cancel": "I WANT TO CANCEL",
+      "reserve": "CONFIRM RESERVATION",
+      "viewMySessions": "BROWSE MY SCHEDULE"
+    },
+    "confirmCancel": "Are you sure you want to cancel this session?\nYou have {0} hours before this session start.",
+    "finishMessage": {
+      "cancel": {
+        "contents": {
+          "noCode": "Remember to make time for your workouts and attend your reserved sessions next time!"
+        },
+        "title": "Session cancelled"
+      },
+      "clipboard": {
+        "content": "WeFit reservation code: {0}",
+        "message": "Reservation code copied!",
+        "title": "Reserve session"
+      },
+      "reserve": {
+        "contents": {
+          "hasCode": "Please provide the check-in code for the receptionist to complete the check-in procedure at studios. This is an essential step before participating in any sessions booked with WeFit. This code is only valid during the time from 30 minutes before till the end of session.",
+          "noCode": "Please arrive on time and inform the receptionist that you use the WeFit App to join this session!"
+        },
+        "title": "Session reserved"
+      }
+    },
+    "sessionDuration": "Lasts {0} min",
+    "warning": "Note: The latest you can cancel this session is 60 minutes before it starts"
+  },
+  "sessionDetail": {
+    "buttons": {
+      "alreadyReserved": "SESSION RESERVED",
+      "cancel": "CANCEL",
+      "reserve": "RESERVE"
+    },
+    "duration": "Lasts {0} min",
+    "reservationCode": {
+      "title": "Reservation code:",
+      "tooltips": "Use this reservation code to join session"
+    },
+    "sections": {
+      "description": "Description",
+      "policies": "When do I need to be there?",
+      "requirements": "What do I need to bring?"
+    }
+  },
+  "sessionsListing": {
+    "dataRow": {
+      "currentSession": "Session {0} of the course",
+      "duration": "{0} min",
+      "instructor": "Instructor: {0}",
+      "reserved": "Reserved"
+    },
+    "empty": {
+      "hasFilters": {
+        "subTitle": "Please go back and change filters",
+        "title": "No results"
+      },
+      "noFilters": {
+        "subTitle": "Please view tomorrow's schedule for available sessions!",
+        "title": "There aren't any other schedules today"
+      }
+    }
+  },
+  "setGoals": {
+    "buttons": {
+      "clear": "CLEAR",
+      "submit": "SUBMIT"
+    },
+    "durations": {
+      "day": "day",
+      "month": "month",
+      "week": "week"
+    },
+    "header": {
+      "finished": "Congratulations! You have completed goal number {0}!",
+      "finishedToday": "Congratulations! You have completed today's goal!",
+      "noGoals": "You haven't set a workout goal for yourself today!",
+      "remain": "You need {0} sessions to reach number {0} goal!",
+      "remainToday": "You need {0} sessions to reach today's goal!",
+      "setButton": "Set goals"
+    },
+    "planNames": {
+      "advanced": "Advanced",
+      "basic": "Beginner",
+      "custom": "Organize yourself",
+      "standard": "Standard"
+    },
+    "sections": {
+      "detail": "Details",
+      "plans": "Choose a plan"
+    },
+    "title": "Set goals"
+  },
+  "settings": {
+    "appInfo": {
+      "checkForUpdate": "CHECK FOR UPDATE",
+      "clearCache": "CLEAR CACHE",
+      "logout": "LOG OUT",
+      "updating": "Updating... ({0})",
+      "version": "Current version: {0}"
+    },
+    "hideUnavailableSessions": "Hide invalid sessions",
+    "logout": {
+      "cancel": "I'll stay",
+      "confirm": "Log me out",
+      "message": "Stay with WeFit! There is so much we haven't done",
+      "thanksForStay": "Thank you so much ^_^",
+      "title": "Are you sure you want to logout?"
+    },
+    "notifyBefore": "{0} minutes before session starts",
+    "saveChanges": "SAVE CHANGES",
+    "sections": {
+      "application": "Application",
+      "language": "Language",
+      "notifications": "Notifications",
+      "schedules": "Schedule"
+    },
+    "title": "Account settings"
+  },
+  "studioDetail": {
+    "buttons": {
+      "viewSchedules": "BROWSE SCHEDULES"
+    },
+    "sameBrandStudios": "Studios of the same brand",
+    "sections": {
+      "description": "About us"
+    }
+  },
+  "studioSchedules": {
+    "empty": {
+      "subTitle": "Please choose another day or another studio, thank you!",
+      "title": "The schedule is empty"
+    }
+  },
+  "validations": {
+    "emptyCity": "City can't be empty!",
+    "emptyEmail": "Email address can't be empty!",
+    "emptyName": "Full name can't be empty!",
+    "emptyNewPassword": "New password can't be empty!",
+    "emptyPassword": "Password can't be empty!",
+    "emptyPhone": "Phone number can't be empty!",
+    "invalidEmail": "Invalid email address!",
+    "invalidPhone": "Invalid phone number!",
+    "newPasswordTooShort": "New password should be at least 8-character long!",
+    "passwordTooShort": "Password should be at least 8-character long!",
+    "reusedPassword": "New password must be different from current password!"
+  },
+  "welcome": {
+    "buttons": {
+      "email": "LOG IN WITH EMAIL",
+      "facebook": "LOG IN WITH FACEBOOK"
+    },
+    "emailAuth": {
+      "buttons": {
+        "changePassword": "CHANGE PASSWORD",
+        "createAccount": "CREATE ACCOUNT",
+        "forgotPassword": "Forgot password",
+        "login": "LOG IN",
+        "register": "Register new account",
+        "submit": "SUBMIT"
+      },
+      "instructions": {
+        "changePassword": "Enter your old and new password below",
+        "checkEmail": "Request for new password sent, please check your email {0} and follow the instructions",
+        "facebookHint": "Or simpler!",
+        "forgotPassword": "We will send a password verification code to your email.",
+        "notRegistered": "No account yet?",
+        "resetPassword": "Enter new password below",
+        "resetPasswordSuccess": "New password changed successfully, please log in again"
+      },
+      "placeholders": {
+        "email": "Email address",
+        "mixed": "Email address or phone number",
+        "newPassword": "New password",
+        "password": "Password",
+        "verificationCode": "Verification code"
+      },
+      "titles": {
+        "changePassword": "Change password",
+        "forgotPassword": "Forgot password",
+        "login": "Login",
+        "resetPassword": "Reset password",
+        "signUp": "Register",
+        "verificationCode": "Verification"
+      }
+    },
+    "intro": {
+      "buttons": {
+        "activateMembership": "ACTIVATE MEMBERSHIP",
+        "next": "NEXT",
+        "startTrial": "START USING WEFIT"
+      },
+      "texts": [
+        "Find available sessions any time at any location",
+        "2 simple steps to surf and reserve",
+        "Fast and easy check-in"
+      ]
+    },
+    "sellingPoints": [
+      "Easy access at the\nnearest fitness centers",
+      "ANYTIME!"
+    ],
+    "tutorials": [
+      {
+        "big": "ACCESS TO 500 FITNESS STUDIOS",
+        "small": "ONE APP"
+      },
+      {
+        "big": "MORE THAN 30 TYPES OF WORKOUTS",
+        "small": "ONE APP"
+      },
+      {
+        "big": "5000 CLASSES PER DAY",
+        "small": "ONE APP"
+      }
+    ]
+  }
+}

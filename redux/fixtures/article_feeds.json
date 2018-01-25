@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "errors": [],
+  "messages": [],
+  "": "",
+  "result": [
+    {
+      "type": "announcements",
+      "articles": [
+        {
+          "id": 100,
+          "title": "Khuyến mại lên tới 80%",
+          "thumbnail": "https://wefit.vn/wp-content/uploads/2017/08/image4.png",
+          "type": "announcements",
+          "tags": [],
+          "source_url": "https://wefit.vn/hn-top-5-phong-tap-duoc-yeu-thich-nhat-nay/",
+          "author": "WeFit"
+        },
+        {
+          "id": 101,
+          "title": "Khuyến mại lên tới 80%",
+          "thumbnail": "https://wefit.vn/wp-content/uploads/2017/08/image7.jpg",
+          "type": "announcements",
+          "tags": [],
+          "source_url": "https://wefit.vn/hn-top-5-phong-tap-duoc-yeu-thich-nhat-nay/",
+          "author": "WeFit"
+        }
+      ]
+    },
+    {
+      "type": "half-size-articles",
+      "articles": [
+        {
+          "id": 11,
+          "title": "8 môn đặc biệt PHẢI THỬ cùng WeFit",
+          "thumbnail": "https://wefit.vn/wp-content/uploads/2017/08/image7.jpg",
+          "type": "half-size-articles",
+          "tags": [],
+          "source_url": "https://wefit.vn/8-mon-dac-biet-phai-thu-cung-wefit/",
+          "author": "WeFit"
+        },
+        {
+          "id": 12,
+          "title": "5 môn nhảy đang HOT nhất",
+          "thumbnail": "https://wefit.vn/wp-content/uploads/2017/08/1.jpg",
+          "type": "half-size-articles",
+          "tags": [],
+          "source_url": "https://wefit.vn/5-mon-nhay-dang-hot-nhat/",
+          "author": "WeFit"
+        }
+      ]
+    },
+    {
+      "type": "full-size-articles",
+      "articles": [
+        {
+          "id": 28,
+          "title": "[Video Series] KHÔNG kiêng ăn vẫn giảm cân",
+          "thumbnail": "https://blog.wefit.vn/wp-content/uploads/2017/08/Mental-Health.jpg",
+          "type": "full-size-articles",
+          "tags": [
+            "Cảm hứng"
+          ],
+          "source_url": "https://blog.wefit.vn/exercises_guide/video-series-khong-kieng-an-van-giam-can/",
+          "author": "WeFit"
+        },
+        {
+          "id": 29,
+          "title": "8 TRƯỜNG PHÁI YOGA PHỔ BIẾN NHẤT HIỆN NAY",
+          "thumbnail": "https://blog.wefit.vn/wp-content/uploads/2017/09/6zcC0G4.jpg",
+          "type": "full-size-articles",
+          "tags": [
+            "Tập luyện",
+            "Yoga"
+          ],
+          "source_url": "https://blog.wefit.vn/exercises_guide/8-truong-phai-yoga-pho-bien-nhat-hien-nay/",
+          "author": "WeFit"
+        },
+        {
+          "id": 30,
+          "title": "[HN] LẬP HỘI TẬP YOGA TỪ A-Z CÙNG WEFIT",
+          "thumbnail": "https://blog.wefit.vn/wp-content/uploads/2017/09/20770259_1128113193986532_6879396428874997494_n.jpg",
+          "type": "full-size-articles",
+          "tags": [
+            "Yoga"
+          ],
+          "source_url": "https://blog.wefit.vn/exercises_guide/hn-lap-hoi-tap-yoga-tu-a-z-cung-wefit/",
+          "author": "admin"
+        }
+      ]
+    }
+  ],
+  "result_info": {}
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "code": "vi",
+    "dir": "ltr",
+    "enabled": true,
+    "flag": "https://d2ihqxg65zn459.cloudfront.net/images/flags/vn.png",
+    "name": "Vietnamese",
+    "nativeName": "Tiếng Việt"
+  },
+  {
+    "code": "en",
+    "dir": "ltr",
+    "enabled": true,
+    "flag": "https://d2ihqxg65zn459.cloudfront.net/images/flags/us.png",
+    "name": "English (United States)",
+    "nativeName": "English (United States)"
+  }
+]

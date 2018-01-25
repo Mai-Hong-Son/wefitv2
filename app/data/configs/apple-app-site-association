@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TNXA879DV6.com.wefit.app",
+        "paths": ["*"]
+      },
+      {
+        "appID": "TNXA879DV6.com.wefit.app.stg",
+        "paths": ["*"]
+      },
+      {
+        "appID": "TNXA879DV6.com.wefit.app.dev",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "1039994671047",
+    "firebase_url": "https://wefit-e5f99.firebaseio.com",
+    "project_id": "wefit-e5f99",
+    "storage_bucket": "wefit-e5f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039994671047:android:effde126d9667bf8",
+        "android_client_info": {
+          "package_name": "com.wefit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039994671047-5vl2dabe0cu4sommn6snpbb634v3hn4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wefit.app",
+            "certificate_hash": "cd3547c73c4052a4beabe92079afdc393501f933"
+          }
+        },
+        {
+          "client_id": "1039994671047-0ml5k8el1gsvr45sljof8vnb0728j99k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wefit.app",
+            "certificate_hash": "4bc1801a4083a55e1b2cf1f5cfe4811f0347c9ad"
+          }
+        },
+        {
+          "client_id": "1039994671047-tilsrd5vgk3ekj3isi7237lqjc0p7bpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXkwOP0pLpc4HNw7wciR2S1-MG2a8qyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039994671047-tilsrd5vgk3ekj3isi7237lqjc0p7bpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039994671047-2oforjldaajlfud1oq8lgclcs56cg9hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wefit.app.stg"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039994671047:android:00ebf58484a98295",
+        "android_client_info": {
+          "package_name": "com.wefit.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039994671047-hmlj9nl4osr18knlhmiqmh8kvsjuq8gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wefit.sms",
+            "certificate_hash": "a99ede94c851219396e70963fc334dd60c99b9d1"
+          }
+        },
+        {
+          "client_id": "1039994671047-tilsrd5vgk3ekj3isi7237lqjc0p7bpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXkwOP0pLpc4HNw7wciR2S1-MG2a8qyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039994671047-tilsrd5vgk3ekj3isi7237lqjc0p7bpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039994671047-2oforjldaajlfud1oq8lgclcs56cg9hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wefit.app.stg"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039994671047:android:52ea501d39f06d13",
+        "android_client_info": {
+          "package_name": "com.wefit.app.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039994671047-podc1rsutdg71osu1ks751mksk2g85b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wefit.app.stg",
+            "certificate_hash": "4bc1801a4083a55e1b2cf1f5cfe4811f0347c9ad"
+          }
+        },
+        {
+          "client_id": "1039994671047-k38secrg2jncrcpedr0e2mnqlicgrmtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wefit.app.stg",
+            "certificate_hash": "cd3547c73c4052a4beabe92079afdc393501f933"
+          }
+        },
+        {
+          "client_id": "1039994671047-tilsrd5vgk3ekj3isi7237lqjc0p7bpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXkwOP0pLpc4HNw7wciR2S1-MG2a8qyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039994671047-tilsrd5vgk3ekj3isi7237lqjc0p7bpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039994671047-2oforjldaajlfud1oq8lgclcs56cg9hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wefit.app.stg"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766948245041:android:7206d4c87ecf660b",
+        "android_client_info": {
+          "package_name": "com.wefit.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766948245041-5pqph14qgacc4aq4duiet3f5aadn2tb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWR4HCrZYS4f0UIo2bfNhhn2jL6LWxxKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

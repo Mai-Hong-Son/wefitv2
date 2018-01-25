@@ -1,0 +1,21 @@
+{
+  "packageName": "wefit-mobile-v2",
+  "moduleName": "WeFit",
+  "gitRemoteUrl": "git@ssh.git.onaclover.com:we-fit/wefit-mobile-v2.git",
+  "codepush": {
+    "release": "hWW70TJ-cH0vxi6EcpQO8owaSWCb4y5ZR-AgG",
+    "staging": "KJpO9Wi2_sLY3K3dr2UQx2WlZaz84y5ZR-AgG"
+  },
+  "android": {
+    "applicationId": "com.wefit.app",
+    "signingConfigs": {
+      "storeFile": "WEFIT_RELEASE_STORE_FILE",
+      "keyAlias": "WEFIT_RELEASE_KEY_ALIAS",
+      "storePassword": "WEFIT_RELEASE_STORE_PASSWORD",
+      "keyPassword": "WEFIT_RELEASE_KEY_PASSWORD"
+    }
+  },
+  "ios": {
+    "bundleId": "com.wefit.app"
+  }
+}
